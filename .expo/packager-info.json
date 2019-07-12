@@ -1,9 +1,9 @@
 {
-  "devToolsPort": 19002,
+  "devToolsPort": 19003,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 4821,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "packagerPid": 8293,
+  "expoServerNgrokUrl": "https://cj-zse.anonymous.teach-yo-self.exp.direct",
+  "packagerNgrokUrl": "https://packager.cj-zse.anonymous.teach-yo-self.exp.direct",
+  "ngrokPid": 8305
 }

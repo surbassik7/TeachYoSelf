@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "This is my lesson on using React Native to Setup a mobile device app.",
+    "githubUrl": "https://github.com/surbassik7/TeachYoSelf"
   }
 }
